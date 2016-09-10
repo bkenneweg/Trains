@@ -1,0 +1,36 @@
+.jumbotron {
+  margin-top: 10px;
+  text-align: center;
+  background-color: white;
+  border-style: groove;
+}
+
+body {
+  background: url('bodyBackground.jpg');
+  background-size: cover;
+}
+
+h1 {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 75px;
+}
+
+table {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+label {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+button {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+.panel-heading {
+	text-decoration-color: black;
+	background-color: white;
+}
